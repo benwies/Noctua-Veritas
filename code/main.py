@@ -18,7 +18,7 @@ def embed_text_in_existing_image(image_path, text, output_path):
 
 # Example usage
 image_path = 'input_image.png'  # Replace with the path to your uploaded image
-text = 'aHR0cHM6Ly9wYXN0ZWJpbi5jb20vN2lWNmY5VGc='  # Your text message
+text = 'aHR0cHM6Ly9wYXN0ZWJpbi5jb20vOTNzdFNpUnE='  # Your text message
 output_path = 'output_image.png'  # Output file path
 
 embed_text_in_existing_image(image_path, text, output_path)
